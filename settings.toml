@@ -1,0 +1,10 @@
+[development]
+message = "development"
+api_url = "www.mock.com"
+api_key = "123"
+
+
+[production]
+message = "production"
+api_url = "x"
+api_key = "y"
