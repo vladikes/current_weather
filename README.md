@@ -11,6 +11,8 @@ Insert the correct API key and URL in settings.toml production settings
 See app.py for an example
 Run app.py for results
 
+To switch Evnrironments change the string in settings.from_env('development') on line 6 in app.py
+
 For API parameters and guide please see:
 https://openweathermap.org/current
 
